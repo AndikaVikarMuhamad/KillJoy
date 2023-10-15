@@ -6,11 +6,7 @@ let handler = async (m, { conn, text }) => {
   try {
     const res = await nhsearch(query, sort, page);
     const data = pickrandom(res);
-    let tags = "";
-    for (const v of data.tags) {
-      tags += `${v} ,`;
-    }
-    let teks = `*Title :* ${data.title}\n*Title Japan :* ${data.title_japan}\n*Title Pretty :* ${data.title_pretty}\n*Language :* ${data.language}\n*Tags :* ${tags}`;
+    let teks = `*Title :* ${data.title}\n*Title Japan :* ${data.title_japan}\n*Title Pretty :* ${data.title_pretty}\n*Language :* ${data.language}\n*Tags :* $`;
     const imagepdf = await toPDF(data.image_links);
     await m.reply(
       "*Downloading...*\n\nJika terlalu lama mungkin filenya terlalu besar"
