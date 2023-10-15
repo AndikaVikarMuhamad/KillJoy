@@ -1,5 +1,5 @@
 import axios from "axios";
-import { extractImageThumb } from "@adiwajshing/baileys";
+import { extractImageThumb } from "@whiskeysockets/baileys";
 import { doujindesudl, toPDF } from "../lib/scraper/index.mjs";
 
 let handler = async (m, { conn, args }) => {

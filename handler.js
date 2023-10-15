@@ -6,7 +6,7 @@ import { smsg } from "./lib/simple.js";
 import { unwatchFile, watchFile } from "fs";
 // import { getBuffer } from "./lib/scraper/index.mjs";
 // import uploadImage from "./lib/uploadImage.js";
-const { proto } = (await import("@adiwajshing/baileys")).default;
+const { proto } = (await import("@whiskeysockets/baileys")).default;
 const isNumber = (x) => typeof x === "number" && !isNaN(x);
 const delay = (ms) =>
   isNumber(ms) &&

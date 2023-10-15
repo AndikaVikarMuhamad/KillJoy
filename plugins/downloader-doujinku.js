@@ -1,5 +1,5 @@
 import fetch from "node-fetch";
-import { extractImageThumb } from "@adiwajshing/baileys";
+import { extractImageThumb } from "@whiskeysockets/baileys";
 import { doujinkudl, toPDF } from "../lib/scraper/index.mjs";
 
 let handler = async (m, { conn, args }) => {

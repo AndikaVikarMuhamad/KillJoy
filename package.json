@@ -14,7 +14,7 @@
     "name": "Andika"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "npm:baileys",
+    "@whiskeysockets/baileys": "^6.4.0",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^0.24.0",
     "canvas": "^2.11.2",

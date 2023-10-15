@@ -1,7 +1,7 @@
 {
   "users": {
     "6283164013535@s.whatsapp.net": {
-      "exp": 2020,
+      "exp": 2046,
       "limit": 50,
       "joinlimit": 1,
       "money": 100000,
@@ -33,7 +33,7 @@
       "pptelegraph": ""
     },
     "6283856409816@s.whatsapp.net": {
-      "exp": 15774,
+      "exp": 16288,
       "limit": 250,
       "joinlimit": 1,
       "money": 100000,
@@ -861,6 +861,66 @@
       "unreglast": 0,
       "snlast": 0,
       "pfp": "https://i.imgur.com/tt3q2RC.jpg"
+    },
+    "62895386214064@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 50,
+      "joinlimit": 1,
+      "money": 100000,
+      "bank": 100000,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "L",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "banned": false,
+      "premium": false,
+      "created": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "reglast": 0,
+      "unreglast": 0,
+      "snlast": 0,
+      "pfp": "https://i.imgur.com/tt3q2RC.jpg",
+      "premiumDate": 0,
+      "bannedDate": 0
+    },
+    "6281230084922@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 50,
+      "joinlimit": 1,
+      "money": 100000,
+      "bank": 100000,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "M Hambali",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "banned": false,
+      "premium": false,
+      "created": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "reglast": 0,
+      "unreglast": 0,
+      "snlast": 0,
+      "pfp": "https://pps.whatsapp.net/v/t61.24694-24/357262198_1251909862131710_7951132563223273254_n.jpg?ccb=11-4&oh=01_AdTRg9-KB8Ae8BaKacV0zG7yuAF7DYetUbNY0NbavQigwg&oe=64EB0AEF",
+      "premiumDate": 0,
+      "bannedDate": 0
     }
   },
   "chats": {
@@ -905,7 +965,7 @@
       "premium": false,
       "premiumTime": false,
       "expired": 0,
-      "delay": 1691828871965
+      "delay": 1697351406439
     },
     "status@broadcast": {
       "isBanned": false,
@@ -1100,10 +1160,10 @@
   },
   "stats": {
     "general-menu.js": {
-      "total": 104,
-      "success": 103,
-      "last": 1691827681646,
-      "lastSuccess": 1691827681646
+      "total": 108,
+      "success": 107,
+      "last": 1697351087293,
+      "lastSuccess": 1697351087293
     },
     "internet-wallpaperq.js": {
       "total": 3,
@@ -1124,10 +1184,10 @@
       "lastSuccess": 1689520037282
     },
     "misc-speed.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1691827592611,
-      "lastSuccess": 1691827592611
+      "total": 24,
+      "success": 24,
+      "last": 1692266340057,
+      "lastSuccess": 1692266340057
     },
     "owner-exec.js": {
       "total": 124,
@@ -1232,10 +1292,10 @@
       "lastSuccess": 1689815661691
     },
     "downloader-tiktok.js": {
-      "total": 64,
-      "success": 64,
-      "last": 1691765344089,
-      "lastSuccess": 1691765344089
+      "total": 65,
+      "success": 65,
+      "last": 1691885304273,
+      "lastSuccess": 1691885304273
     },
     "downloader-doujindesu.js": {
       "total": 11,
@@ -1274,10 +1334,10 @@
       "lastSuccess": 1690018111633
     },
     "internet-difusion.js": {
-      "total": 94,
-      "success": 93,
-      "last": 1691766301482,
-      "lastSuccess": 1691766301482
+      "total": 100,
+      "success": 99,
+      "last": 1697351406439,
+      "lastSuccess": 1697351406439
     },
     "downloader-facebook.js": {
       "total": 8,
@@ -1304,10 +1364,10 @@
       "lastSuccess": 1690670502904
     },
     "general-jadibot.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1691318583094,
-      "lastSuccess": 1691318583094
+      "total": 14,
+      "success": 7,
+      "last": 1692347163097,
+      "lastSuccess": 1692347163097
     },
     "downloader-nhentai.js": {
       "total": 38,

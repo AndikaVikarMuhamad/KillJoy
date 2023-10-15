@@ -1,4 +1,4 @@
-import { extractImageThumb } from "@adiwajshing/baileys";
+import { extractImageThumb } from "@whiskeysockets/baileys";
 import { komikudl, toPDF } from "../lib/scraper/index.mjs";
 import fetch from "node-fetch";
 

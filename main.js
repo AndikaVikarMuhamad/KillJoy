@@ -37,7 +37,7 @@ import { makeWASocket, protoType, serialize } from "./lib/simple.js";
 import { Low, JSONFile } from "lowdb";
 import pino from "pino";
 const { useSingleFileAuthState, useMultiFileAuthState, DisconnectReason } =
-  await import("@adiwajshing/baileys");
+  await import("@whiskeysockets/baileys");
 import storeSystem from "./lib/store.js";
 const store = storeSystem.makeInMemoryStore();
 import CloudDBAdapter from "./lib/cloudDBAdapter.js";
@@ -130,7 +130,7 @@ const { state, saveState, saveCreds } = global.opts["single"]
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
-  browser: ["Kllll", "Firefox", "3.1.0"],
+  browser: ["KillJoy", "Firefox", "3.1.0"],
   patchMessageBeforeSending: (message) => {
     const requiresPatch = !!(
       message.buttonsMessage ||
