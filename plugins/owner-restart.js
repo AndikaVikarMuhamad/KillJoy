@@ -7,8 +7,8 @@ let handler = async (m, { conn, isROwner, text }) => {
   } else throw "_eeeeeiiittsssss..._";
 };
 
-handler.help = ["restart"];
-handler.tags = ["owner"];
+// handler.help = ["restart"];
+// handler.tags = ["owner"];
 handler.command = /^(res(tart)?)$/i;
 
 // handler.rowner = true

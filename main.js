@@ -130,7 +130,7 @@ const { state, saveState, saveCreds } = global.opts["single"]
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
-  browser: ["Kllll", "Firefox", "3.1.0"],
+  browser: ["KillJoy", "Firefox", "3.1.0"],
   patchMessageBeforeSending: (message) => {
     const requiresPatch = !!(
       message.buttonsMessage ||

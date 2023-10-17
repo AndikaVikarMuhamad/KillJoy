@@ -30,9 +30,13 @@ let handler = async (m, { conn, text }) => {
       ini = data.completed_at;
       if (data.completed_at !== null) {
         clearTimeout(v);
-        const apal = data.output;
-        // console.log(data);
-        conn.sendFile(m.chat, apal, "", text, m);
+        if (data.status == "failed") {
+          m.reply("Error\nMessage:" + data.error);
+        } else {
+          const apal = data.output;
+          console.log(data);
+          conn.sendFile(m.chat, apal, "", text, m);
+        }
         // console.log(apal);
       }
     }

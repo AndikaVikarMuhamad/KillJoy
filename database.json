@@ -33,7 +33,7 @@
       "pptelegraph": ""
     },
     "6283856409816@s.whatsapp.net": {
-      "exp": 15774,
+      "exp": 15983,
       "limit": 250,
       "joinlimit": 1,
       "money": 100000,
@@ -861,6 +861,34 @@
       "unreglast": 0,
       "snlast": 0,
       "pfp": "https://i.imgur.com/tt3q2RC.jpg"
+    },
+    "62895386214064@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 50,
+      "joinlimit": 1,
+      "money": 100000,
+      "bank": 100000,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Mui",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "banned": false,
+      "premium": false,
+      "created": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "reglast": 0,
+      "unreglast": 0,
+      "snlast": 0,
+      "pfp": "https://pps.whatsapp.net/v/t61.24694-24/370840716_1305713953407447_7192644457549560114_n.jpg?ccb=11-4&oh=01_AdTsExsoD16xFUycaROMQqmp9U8T7CI5maKI00mN5nDt5g&oe=6538E7F2&_nc_sid=000000&_nc_cat=100"
     }
   },
   "chats": {
@@ -905,7 +933,7 @@
       "premium": false,
       "premiumTime": false,
       "expired": 0,
-      "delay": 1691828871965
+      "delay": 1697378105266
     },
     "status@broadcast": {
       "isBanned": false,
@@ -1100,10 +1128,10 @@
   },
   "stats": {
     "general-menu.js": {
-      "total": 104,
-      "success": 103,
-      "last": 1691827681646,
-      "lastSuccess": 1691827681646
+      "total": 106,
+      "success": 105,
+      "last": 1697378105266,
+      "lastSuccess": 1697378105266
     },
     "internet-wallpaperq.js": {
       "total": 3,
@@ -1124,10 +1152,10 @@
       "lastSuccess": 1689520037282
     },
     "misc-speed.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1691827592611,
-      "lastSuccess": 1691827592611
+      "total": 24,
+      "success": 24,
+      "last": 1697376862437,
+      "lastSuccess": 1697376862437
     },
     "owner-exec.js": {
       "total": 124,
@@ -1274,10 +1302,10 @@
       "lastSuccess": 1690018111633
     },
     "internet-difusion.js": {
-      "total": 94,
-      "success": 93,
-      "last": 1691766301482,
-      "lastSuccess": 1691766301482
+      "total": 100,
+      "success": 99,
+      "last": 1697377490085,
+      "lastSuccess": 1697377490085
     },
     "downloader-facebook.js": {
       "total": 8,
