@@ -13,5 +13,5 @@ let handler = async (m, { conn, text }) => {
 handler.help = ["rule34"];
 handler.tags = ["internet"];
 handler.alias = ["r34", "rule34"];
-handler.command = /^(r((ule)?34))$/i;
+handler.command = /^(r(ule)?34)$/i;
 export default handler;
