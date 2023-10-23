@@ -33,7 +33,7 @@
       "pptelegraph": ""
     },
     "6283856409816@s.whatsapp.net": {
-      "exp": 16054,
+      "exp": 16254,
       "limit": 250,
       "joinlimit": 1,
       "money": 100000,
@@ -933,7 +933,7 @@
       "premium": false,
       "premiumTime": false,
       "expired": 0,
-      "delay": 1697886111425
+      "delay": 1698064095381
     },
     "status@broadcast": {
       "isBanned": false,
@@ -1128,10 +1128,10 @@
   },
   "stats": {
     "general-menu.js": {
-      "total": 107,
-      "success": 106,
-      "last": 1697857032403,
-      "lastSuccess": 1697857032403
+      "total": 109,
+      "success": 107,
+      "last": 1698062051056,
+      "lastSuccess": 1698062051056
     },
     "internet-wallpaperq.js": {
       "total": 3,
@@ -1260,10 +1260,10 @@
       "lastSuccess": 1689815661691
     },
     "downloader-tiktok.js": {
-      "total": 64,
-      "success": 64,
-      "last": 1691765344089,
-      "lastSuccess": 1691765344089
+      "total": 65,
+      "success": 65,
+      "last": 1698063936609,
+      "lastSuccess": 1698063936609
     },
     "downloader-doujindesu.js": {
       "total": 11,
@@ -1302,16 +1302,16 @@
       "lastSuccess": 1690018111633
     },
     "internet-difusion.js": {
-      "total": 100,
-      "success": 99,
-      "last": 1697377490085,
-      "lastSuccess": 1697377490085
+      "total": 105,
+      "success": 104,
+      "last": 1698064095381,
+      "lastSuccess": 1698064095381
     },
     "downloader-facebook.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1691827858755,
-      "lastSuccess": 1691827858755
+      "total": 9,
+      "success": 9,
+      "last": 1698063750757,
+      "lastSuccess": 1698063750757
     },
     "general-sticker.js": {
       "total": 5,

@@ -1,0 +1,10 @@
+{
+  "bank": { "money": 109450, "multiplier": 2.9000000000000017 },
+  "algortima": {
+    "bangkrut": 80,
+    "rungkad": 40,
+    "gacor": 20,
+    "max_win": 7.169999999999996
+  },
+  "pemain": { "dika": { "money": 550.0000000000009 } }
+}
