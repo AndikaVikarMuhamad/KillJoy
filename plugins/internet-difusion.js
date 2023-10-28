@@ -39,7 +39,7 @@ let handler = async (m, { conn, text }) => {
             m.reply("Error\nMessage:" + data.error);
           } else {
             const apal = data.output;
-            console.log(data);
+            // console.log(data);
             conn.sendFile(m.chat, apal, "", text, m);
           }
         }

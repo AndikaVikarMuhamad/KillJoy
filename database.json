@@ -1,7 +1,7 @@
 {
   "users": {
     "6283164013535@s.whatsapp.net": {
-      "exp": 2027,
+      "exp": 2046,
       "limit": 50,
       "joinlimit": 1,
       "money": 100000,
@@ -1124,14 +1124,36 @@
       "premiumTime": false,
       "expired": 0,
       "delay": 1690284180129
+    },
+    "120363160049464796@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "stiker": false,
+      "mute": true,
+      "antiSticker": false,
+      "viewonce": false,
+      "useDocument": false,
+      "nsfw": false,
+      "premnsfw": false,
+      "premium": false,
+      "premiumTime": false,
+      "expired": 0,
+      "delay": 1698402439900
     }
   },
   "stats": {
     "general-menu.js": {
-      "total": 109,
-      "success": 107,
-      "last": 1698062051056,
-      "lastSuccess": 1698062051056
+      "total": 110,
+      "success": 108,
+      "last": 1698402439900,
+      "lastSuccess": 1698402439900
     },
     "internet-wallpaperq.js": {
       "total": 3,
