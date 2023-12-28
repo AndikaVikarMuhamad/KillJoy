@@ -33,7 +33,7 @@
       "pptelegraph": ""
     },
     "6283856409816@s.whatsapp.net": {
-      "exp": 16254,
+      "exp": 16423,
       "limit": 250,
       "joinlimit": 1,
       "money": 100000,
@@ -889,6 +889,63 @@
       "unreglast": 0,
       "snlast": 0,
       "pfp": "https://pps.whatsapp.net/v/t61.24694-24/370840716_1305713953407447_7192644457549560114_n.jpg?ccb=11-4&oh=01_AdTsExsoD16xFUycaROMQqmp9U8T7CI5maKI00mN5nDt5g&oe=6538E7F2&_nc_sid=000000&_nc_cat=100"
+    },
+    "6285348794802@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 50,
+      "joinlimit": 1,
+      "money": 100000,
+      "bank": 100000,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Senpai",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "banned": false,
+      "premium": false,
+      "created": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "reglast": 0,
+      "unreglast": 0,
+      "snlast": 0,
+      "pfp": "https://pps.whatsapp.net/v/t61.24694-24/395533369_320452510699330_6413613721235869571_n.jpg?ccb=11-4&oh=01_AdQsWys5YL2wJyjfO8dZ4XPbdnAeMpKh8vpymxrso4Vdpw&oe=654BDE6C&_nc_sid=000000&_nc_cat=109"
+    },
+    "6281318825103@s.whatsapp.net": {
+      "exp": 25,
+      "limit": 50,
+      "joinlimit": 1,
+      "money": 100000,
+      "bank": 100000,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Tegar",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "pasangan": "",
+      "banned": false,
+      "premium": false,
+      "created": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "reglast": 0,
+      "unreglast": 0,
+      "snlast": 0,
+      "pfp": "https://i.imgur.com/tt3q2RC.jpg",
+      "delay": 1698741964101
     }
   },
   "chats": {
@@ -933,7 +990,7 @@
       "premium": false,
       "premiumTime": false,
       "expired": 0,
-      "delay": 1698064095381
+      "delay": 1698746930484
     },
     "status@broadcast": {
       "isBanned": false,
@@ -1146,14 +1203,56 @@
       "premiumTime": false,
       "expired": 0,
       "delay": 1698402439900
+    },
+    "6285348794802@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "stiker": false,
+      "mute": true,
+      "antiSticker": false,
+      "viewonce": false,
+      "useDocument": false,
+      "nsfw": false,
+      "premnsfw": false,
+      "premium": false,
+      "premiumTime": false,
+      "expired": 0
+    },
+    "6281318825103@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "stiker": false,
+      "mute": true,
+      "antiSticker": false,
+      "viewonce": false,
+      "useDocument": false,
+      "nsfw": false,
+      "premnsfw": false,
+      "premium": false,
+      "premiumTime": false,
+      "expired": 0
     }
   },
   "stats": {
     "general-menu.js": {
-      "total": 110,
-      "success": 108,
-      "last": 1698402439900,
-      "lastSuccess": 1698402439900
+      "total": 111,
+      "success": 109,
+      "last": 1698710750342,
+      "lastSuccess": 1698710750342
     },
     "internet-wallpaperq.js": {
       "total": 3,
@@ -1180,10 +1279,10 @@
       "lastSuccess": 1697376862437
     },
     "owner-exec.js": {
-      "total": 124,
-      "success": 124,
-      "last": 1691825331099,
-      "lastSuccess": 1691825331099
+      "total": 128,
+      "success": 128,
+      "last": 1698710730658,
+      "lastSuccess": 1698710730658
     },
     "tools-fetch.js": {
       "total": 18,
@@ -1240,10 +1339,10 @@
       "lastSuccess": 1689721739305
     },
     "downloader-ig.js": {
-      "total": 35,
-      "success": 32,
-      "last": 1691765375501,
-      "lastSuccess": 1691765375501
+      "total": 38,
+      "success": 35,
+      "last": 1698746930484,
+      "lastSuccess": 1698746930484
     },
     "downloader-pinterest.js": {
       "total": 13,
@@ -1336,10 +1435,10 @@
       "lastSuccess": 1698063750757
     },
     "general-sticker.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1690368910490,
-      "lastSuccess": 1690368910490
+      "total": 6,
+      "success": 6,
+      "last": 1698741964101,
+      "lastSuccess": 1698741964101
     },
     "internet-valostalk.js": {
       "total": 23,

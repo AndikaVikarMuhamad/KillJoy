@@ -1,4 +1,5 @@
 {
   "editor.wordWrap": "on",
-  "discord.enabled": false
+  "discord.enabled": false,
+  "compile-hero.disable-compile-files-on-did-save-code": false
 }

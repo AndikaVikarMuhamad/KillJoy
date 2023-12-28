@@ -1,10 +1,1 @@
-{
-  "bank": { "money": 109450, "multiplier": 2.9000000000000017 },
-  "algortima": {
-    "bangkrut": 80,
-    "rungkad": 40,
-    "gacor": 20,
-    "max_win": 7.169999999999996
-  },
-  "pemain": { "dika": { "money": 550.0000000000009 } }
-}
+{"bank":{"money":182850.00000000003,"multiplier":3.200000000000001},"algortima":{"bangkrut":80,"rungkad":40,"gacor":18,"max_win":6},"pemain":{"diki":{"money":102700},"diku":{"money":97800},"dike":{"money":92150},"dika1":{"money":97500},"diki1":{"money":94300},"diku1":{"money":96100},"dike1":{"money":86000},"dika2":{"money":89000},"diki2":{"money":87000},"diku2":{"money":87700},"dike2":{"money":94200},"dika12":{"money":92000},"diki12":{"money":104299.99999999999},"diku12":{"money":91250},"dike12":{"money":100550},"dika123":{"money":80000},"dika":{"money":101850}}}
