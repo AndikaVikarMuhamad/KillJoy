@@ -29,7 +29,7 @@ let handler = async (m, { conn, args }) => {
   }
 };
 handler.tags = ["internet"];
-handler.command = /^d(oujinku|detail)$/i;
+handler.command = /^d((oujinku)?detail)$/i;
 handler.help = ["doujinkudetail"];
 export default handler;
 // https://doujinku.co/manga/secret-class/
