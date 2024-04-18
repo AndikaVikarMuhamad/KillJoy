@@ -33,10 +33,10 @@
       "pptelegraph": ""
     },
     "6283856409816@s.whatsapp.net": {
-      "exp": 16423,
-      "limit": 250,
+      "exp": 17743,
+      "limit": 300,
       "joinlimit": 1,
-      "money": 100000,
+      "money": 200000,
       "bank": 100000,
       "lastclaim": 0,
       "registered": false,
@@ -990,7 +990,7 @@
       "premium": false,
       "premiumTime": false,
       "expired": 0,
-      "delay": 1698746930484
+      "delay": 1713417257900
     },
     "status@broadcast": {
       "isBanned": false,
@@ -1249,10 +1249,10 @@
   },
   "stats": {
     "general-menu.js": {
-      "total": 111,
-      "success": 109,
-      "last": 1698710750342,
-      "lastSuccess": 1698710750342
+      "total": 113,
+      "success": 111,
+      "last": 1713414969557,
+      "lastSuccess": 1713414969557
     },
     "internet-wallpaperq.js": {
       "total": 3,
@@ -1273,16 +1273,16 @@
       "lastSuccess": 1689520037282
     },
     "misc-speed.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1697376862437,
-      "lastSuccess": 1697376862437
+      "total": 25,
+      "success": 25,
+      "last": 1713417204697,
+      "lastSuccess": 1713417204697
     },
     "owner-exec.js": {
-      "total": 128,
-      "success": 128,
-      "last": 1698710730658,
-      "lastSuccess": 1698710730658
+      "total": 129,
+      "success": 129,
+      "last": 1713414985544,
+      "lastSuccess": 1713414985544
     },
     "tools-fetch.js": {
       "total": 18,
@@ -1297,10 +1297,10 @@
       "lastSuccess": 1689571830933
     },
     "owner-exec2.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1691057966592,
-      "lastSuccess": 1691057966592
+      "total": 27,
+      "success": 27,
+      "last": 1713417257900,
+      "lastSuccess": 1713417257900
     },
     "download-doujinku.js": {
       "total": 56,
@@ -1363,10 +1363,10 @@
       "lastSuccess": 1689913455533
     },
     "internet-danbooru.js": {
-      "total": 9,
-      "success": 8,
-      "last": 1690234066703,
-      "lastSuccess": 1690234066703
+      "total": 15,
+      "success": 13,
+      "last": 1713416438986,
+      "lastSuccess": 1713416438986
     },
     "downloader-doujinku.js": {
       "total": 5,
@@ -1423,10 +1423,10 @@
       "lastSuccess": 1690018111633
     },
     "internet-difusion.js": {
-      "total": 105,
-      "success": 104,
-      "last": 1698064095381,
-      "lastSuccess": 1698064095381
+      "total": 106,
+      "success": 105,
+      "last": 1713415091705,
+      "lastSuccess": 1713415091705
     },
     "downloader-facebook.js": {
       "total": 9,
@@ -1475,6 +1475,12 @@
       "success": 2,
       "last": 1697886052240,
       "lastSuccess": 1697886052240
+    },
+    "economy-claim.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1713414974088,
+      "lastSuccess": 1713414974088
     }
   },
   "msgs": {},
